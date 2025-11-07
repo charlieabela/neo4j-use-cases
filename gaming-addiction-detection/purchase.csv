@@ -82,7 +82,7 @@ player_id,amount,item_type,timestamp,impulse_flag
 36,24.99,boost,2024-11-12T21:30:00,false
 36,34.99,cosmetic,2024-11-26T22:00:00,false
 38,19.99,boost,2024-11-08T20:00:00,false
-38,29.99,cosmetic,2024-11-22T21,30:00,false
+38,29.99,cosmetic,2024-11-22T21:30:00,false
 40,14.99,cosmetic,2024-11-16T19:30:00,false
 41,24.99,boost,2024-11-14T21:00:00,false
 41,34.99,cosmetic,2024-11-28T22:30:00,false
